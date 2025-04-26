@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80" fill="none">
+  <path d="M40 10L60 20V40L40 50L20 40V20L40 10Z" stroke="black" stroke-width="2"/>
+  <path d="M40 30L60 40V60L40 70L20 60V40L40 30Z" stroke="black" stroke-width="2"/>
+  <path d="M40 10L40 30" stroke="black" stroke-width="2"/>
+  <path d="M60 20L60 40" stroke="black" stroke-width="2"/>
+  <path d="M20 20L20 40" stroke="black" stroke-width="2"/>
+  <path d="M40 50L40 70" stroke="black" stroke-width="2"/>
+</svg>
